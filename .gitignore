@@ -1,0 +1,53 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de distribución / empaquetado
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# Archivos de entorno
+.env
+.env.*
+
+# Configuración de IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.bak
+*.old
+
+# Cobertura y tests
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# MyPy / Pyright
+.mypy_cache/
+.pyright/
+
+# keyloggers
+keys_pressed.txt
