@@ -15,12 +15,12 @@ Using a **keylogger** without user consent may be **illegal** and unethical, and
 ## Configuration
 1. Install venv **(recommend)**:
    ```bash
-   python -m .venv .venv
+   python -m venv .venv
    .venv\Scripts\Activate
    ```
 2. Install python dependens :
     ```bash
-    pip isntall requirements.txt
+    pip install -r requirements.txt
     ```
 3. Execute:
    ```bash
